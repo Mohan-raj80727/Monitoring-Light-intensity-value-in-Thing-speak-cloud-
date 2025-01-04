@@ -8,7 +8,7 @@ ESP32 Controller<br>
 LDR <br>
 Power supply<br>
 Connecting wires<br>
-Bread board<br>
+Bread board<br> 
 # PROCEDURE:
 ## Arduino IDE
 Step1:Open the Arduino IDE<br>
